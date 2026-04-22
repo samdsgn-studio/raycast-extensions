@@ -1,6 +1,6 @@
 # Changelog
 
-## [Store Copy Refresh] - {PR_MERGE_DATE}
+## [Store Copy Refresh] - 2026-04-22
 
 - Refine the Raycast Store description and README copy.
 - Clarify the extension's purpose and key features.
